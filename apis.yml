@@ -131,6 +131,10 @@ apis:
       - type: Documentation
         url: https://developer.deere.com/precision
 common:
+  - type: GitHubOrganization
+    url: https://github.com/JohnDeere
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/john-deere
   - type: Website
     url: https://www.deere.com
   - type: Developer Portal
