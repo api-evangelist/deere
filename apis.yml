@@ -138,7 +138,7 @@ common:
     url: https://www.linkedin.com/company/john-deere
   - type: Website
     url: https://www.deere.com
-  - type: Developer Portal
+  - type: DeveloperPortal
     url: https://developer.deere.com/
   - type: GettingStarted
     url: https://developer.deere.com/precision/get-started
