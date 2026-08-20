@@ -50,6 +50,9 @@ apis:
     humanURL: https://developer.deere.com/dev-docs/organizations
     tags:
       - Operations Center
+      - Organization
+    tags_raw:
+      - Operations Center
       - Organizations
     properties:
       - type: Documentation
@@ -109,6 +112,10 @@ apis:
     humanURL: https://developer.deere.com/dev-docs/products
     tags:
       - Operations Center
+      - Product
+      - Inputs
+    tags_raw:
+      - Operations Center
       - Products
       - Inputs
     properties:
@@ -122,6 +129,10 @@ apis:
       and field operations can be received without polling.
     humanURL: https://developer.deere.com/dev-docs/webhook
     tags:
+      - Operations Center
+      - Webhook
+      - Event
+    tags_raw:
       - Operations Center
       - Webhooks
       - Events
